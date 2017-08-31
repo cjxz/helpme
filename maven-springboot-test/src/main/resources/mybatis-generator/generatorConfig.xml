@@ -30,7 +30,7 @@
         </sqlMapGenerator>
 
         <javaClientGenerator targetPackage="com.user.mapper"
-                             targetProject="/Users/zhuchao/helpme/maven-springboot-test/src/main/java" type="ANNOTATEDMAPPER">
+                             targetProject="/Users/zhuchao/helpme/maven-springboot-test/src/main/java" type="XMLMAPPER">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
